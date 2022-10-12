@@ -1,3 +1,3 @@
 # Backrub-Modelling
 
-![](backrub2.svg.png?raw=true "DLA-Ranker")
+![](backrub2.svg.png?raw=true "Backrub Modelling")
